@@ -1,0 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Myzterium-Labs/.github/refs/heads/main/myzterium_logo_name_white_on_black.pngg" alt="Myzterium Labs" width="600" />
+</p>
+
+## Hey, we're Myzterium Labs 👋
+
+We build applications that respect users. We're a small development lab focused on practical tools that solve real problems. Our free, open-source applications won't ever sell your data, monitor your use with telemetry, or plaster "Upgrade to the Pro Version" banners all over your tools.
+
+Every project we take on becomes a passion project, whether its an idea from our own minds, or a user request. We pour everything we've got into it - which means we aren't hyper-speed fast, but the quality proves worth the wait.
+
+We're on a mission to give people the tools they need without limits.We believe in the radical idea that open-source applications should have clean architecture, outrageously good UX... and just work. 
