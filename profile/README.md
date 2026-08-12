@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Myzterium-Labs/.github/main/myzterium_logo_name_white_on_black.png" alt="Myzterium Labs" width="600" />
+  <img src="https://raw.githubusercontent.com/Myzterium-Labs/.github/main/myzterium_name_alone_white_on_black.png" alt="Myzterium Labs" width="600" />
 </p>
 
 ## Hey, we're Myzterium Labs 
