@@ -8,4 +8,4 @@ We build applications that respect users. We're a small development lab focused 
 
 Every project we take on becomes a passion project, whether its an idea from our own minds, or a user request. We pour everything we've got into it - which means we aren't hyper-speed fast, but the quality proves worth the wait.
 
-We're on a mission to give people the tools they need without limits.We believe in the radical idea that open-source applications should have clean architecture, outrageously good UX... and just work. 
+We're on a mission to give people the tools they need without limits. We believe in the radical idea that open-source applications should have clean architecture, outrageously good UX... and just work. 
